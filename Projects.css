@@ -1,0 +1,18 @@
+.search a {
+    color: white;
+    background-color: rgb(245, 8, 48);
+    padding: 9px 15px;
+
+    border-top: 2px black;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.hj{
+    background-color: rgb(243, 249, 240);
+}
+.jk{
+    background-color: rgb(253, 230, 234);
+   }
+   a{
+    text-decoration: none;
+   }

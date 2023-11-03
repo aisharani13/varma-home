@@ -1,0 +1,29 @@
+.search a {
+    color: white;
+    background-color: rgb(245, 8, 48);
+    padding: 9px 15px;
+
+    border-top: 2px black;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.jk{
+    background-color: rgb(253, 230, 234);
+   }
+   a{
+    text-decoration: none;
+   }
+   .search a{
+    color: white;
+    background-color: rgb(245, 8, 48);
+    padding: 9px 15px;
+    
+    border-top: 2px black;
+    border-radius: 5px;
+    text-decoration: none;
+    }
+    .search a:hover{
+        background-color: black;
+        text-decoration: none;
+    
+    }
